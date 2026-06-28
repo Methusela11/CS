@@ -8,4 +8,4 @@ for i in ascii_letters + digits + punctuation:
                     for n in ascii_letters + digits + punctuation:
                         for o in ascii_letters + digits + punctuation:
                             for p in ascii_letters + digits + punctuation:
-                            print(i, j, k, l, m, n, o, p)
+                                print(i, j, k, l, m, n, o, p)
