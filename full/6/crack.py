@@ -5,4 +5,5 @@ for i in ascii_letters + digits + punctuation:
         for k in ascii_letters + digits + punctuation:
             for l in ascii_letters + digits + punctuation:
                 for m in ascii_letters + digits + punctuation:
-                    print(i, j, k, l, m)
+                    for n in ascii_letters + digits + punctuation:
+                        print(i, j, k, l, m, n)
