@@ -9,3 +9,5 @@ for i in ascii_letters:
                         for o in ascii_letters:
                             for p in ascii_letters:
                                 print(i, j, k, l, m, n, o, p)
+                                print()
+                                print(i, j, k, l, m, n, o, p)
